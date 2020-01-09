@@ -33,6 +33,9 @@ gem 'bootstrap-sass', '3.3.7'
 # Use FontAwesome sass gem for new icons
 gem 'font-awesome-sass', '4.6.2'
 
+# Use Hirb for better database table display in console
+gem 'hirb', '0.7.3'
+
 
 
 group :development, :test do
